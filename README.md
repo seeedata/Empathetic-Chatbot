@@ -1,4 +1,4 @@
-# Empathetic-Chatbot
+# Empathetic Chatbot
 
 ## Members
 KUBIG 19th Jiwoo Choi, 20th Siho Yoon, Seeun Lee
@@ -18,7 +18,7 @@ This project aims to develop a chatbot with human-like empathy.
   - Designed a generation function and post-processing pipeline to produce empathetic responses to user emotions.
   - Takes user input text and generates responses accordingly.
 
-* **Emotion Classification Task**: BERT was used for emotion label classification.
+* **Emotion Classification**: BERT was used for emotion label classification.
   - Extracted text and emotion labels from the empathetic dialogue dataset and encoded the labels.
   - Defined a function to output the emotion label for a given input sentence.
   - Matched chatbot responses with appropriate emotion labels and emojis.
