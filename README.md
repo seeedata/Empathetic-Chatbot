@@ -8,6 +8,8 @@ This project aims to develop a chatbot with human-like empathy.
 
 ## Structure
 
+![Architecture Diagram](https://github.com/seeedata/Empathetic-Chatbot/blob/4155ab17a192ba694af01617a26008f4b2022d44/image/architecture%20diagram.png)
+
 * **Dataset**: AI Hub Empathetic Dialogue Dataset  
   [Link to Dataset](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71305)
 
