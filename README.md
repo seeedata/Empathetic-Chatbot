@@ -25,6 +25,8 @@ This project aims to develop a chatbot with human-like empathy.
 
 ## Results
 
+![Chat Example](https://github.com/seeedata/Empathetic-Chatbot/blob/d8c3b95b3e6579dd8614d1e85d12b39b1837120a/image/chat%20result.png)
+
 * **Evaluation**:
   - The chatbot demonstrated a generally human-level ability to empathize, maintain conversational context, and enhance emotional engagement through emoji usage.
   - It occasionally produced irrelevant responses in complex or unique situations.
